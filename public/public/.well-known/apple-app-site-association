@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "LFU2FQSB8P.com.gettable.ourflow.app",
+        "paths": [
+          "/reset-password/*",
+          "/profil-public/*"
+        ]
+      }
+    ]
+  }
+}
